@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Was sind Euro-Stablecoins?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tokenisierte Euro-Forderungen, die auf Blockchains transferiert werden können..."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Warum relevant für den Mittelstand?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "T+0-Settlement, geringere Gebühren, programmierbare Zahlungslogik."
+      }
+    }
+  ]
+}
