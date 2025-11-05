@@ -1,13 +1,9 @@
 {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "name": "Zukunft des Geldes",
-  "url": "https://zukunftdesgeldes.de",
-  "logo": "https://zukunftdesgeldes.de/logo.png",
-  "sameAs": [
-    "https://www.linkedin.com/in/wolfram-menser/",
-    "https://github.com/wolfram-menser"
-  ],
+"url": "https://wolfram-menser.github.io/zukunftdesgeldes-site",
+"logo": "https://wolfram-menser.github.io/zukunftdesgeldes-site/logo.png",
+"sameAs": ["https://www.linkedin.com/in/wolfram-menser/","https://github.com/wolfram-menser"] ,
   "contactPoint": [{
     "@type": "ContactPoint",
     "contactType": "customer support",
